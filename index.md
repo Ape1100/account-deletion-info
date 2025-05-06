@@ -6,7 +6,8 @@ To delete your account and all associated data from CRM Rapid:
    
 3. Confirm your choice.
 
-If you have any issues, please contact us at contact@quantumnovitas.com .
+If you have any issues, please contact us at <a href="mailto:contact@quantumnovitas.com?subject=Inquiry&body=Hello Quantum Novitas,">Email Us</a>
+ .
 
 Your data will be permanently deleted from our servers.
 
