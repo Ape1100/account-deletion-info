@@ -3,7 +3,8 @@
 To delete your account and all associated data from CRM Rapid:
 
 1. Open the app and go to **Settings > Account > Delete Account**.
-2. Confirm your choice.
+   
+3. Confirm your choice.
 
 If you have any issues, please contact us at contact@quantumnovitas.com .
 
